@@ -5,6 +5,6 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
 	cout << "first add commit" << endl;
-	cout << "add in origin master after new branch yyg" << endl;
+	cout << "branch yyg create" << endl;
 	return 0;
 }
